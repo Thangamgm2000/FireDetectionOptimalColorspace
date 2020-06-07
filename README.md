@@ -12,7 +12,7 @@ With the increase in number of fire accidents, the need for the fire detection s
 
 ## Output 
 ![output_image](https://github.com/Thangamgm2000/FireDetectionOptimalColorspace/blob/master/output.png)
-&nbsp;&nbsp;&nbsp;![output_gif](https://github.com/Thangamgm2000/FireDetectionOptimalColorspace/blob/master/output_gif.gif)
+&nbsp;&nbsp;&nbsp;![output_gif](https://github.com/Thangamgm2000/FireDetectionOptimalColorspace/blob/master/source_video.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![output_gif](https://github.com/Thangamgm2000/FireDetectionOptimalColorspace/blob/master/output_gif.gif)
 
 
 ## Contributors
